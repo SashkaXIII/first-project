@@ -4,6 +4,6 @@
 
 [Курс](practicum.yandex.ru "Яндекс практикум")
 
-```
+```bash
 git push
 ```
